@@ -1,6 +1,6 @@
 descript-audio-codec
-torch==2.5.1
-torch_npu==2.5.1
+torch==2.7.0
+torch_npu==2.7.1rc1
 numpy==1.26.4
 transformers>=4.45.1,<4.47.0
 librosa
